@@ -12,7 +12,7 @@ Wait for it to initialize (the first time it takes longer)
 
 ## Access your site
 
-Visit <http://localhost:8080>
+Visit <http://localhost:8081>
 
 ## Play with your site
 
@@ -21,7 +21,7 @@ Modify the contents of `my-site` folder and have fun!
 
 ## Share your site
 
-Visit <http://localhost:4040>
+Visit <http://localhost:4041>
 
 `ngrok` will provide you a public url to share your site
 

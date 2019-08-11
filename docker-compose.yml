@@ -7,11 +7,11 @@ services:
     volumes:
     - ./my-site:/usr/share/nginx/html
     ports:
-    - "8080:80"
+    - "8081:80"
   ngrok:
     image: wernight/ngrok
     restart: always
     ports:
-      - 4040:4040
+      - 4041:4040
     environment:
       NGROK_PORT: 'web:80'
