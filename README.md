@@ -1,4 +1,12 @@
-# DOM 101
+# Pick a color
+
+Team building activity.
+
+## Instructions
+
+Get a team and have fun!
+
+## Fork of DOM 101
 
 Static site for experimenting with the DOM
 
