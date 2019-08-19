@@ -1,6 +1,6 @@
 # Pick a color
 
-Team building activity.
+Team building activity
 
 ## Instructions
 
